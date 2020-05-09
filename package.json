@@ -1,0 +1,17 @@
+{
+    "name": "mywebsite",
+    "version": "1.0.0",
+    "description": "resume of sneha",
+    "main": "index.js",
+    "scripts": {
+        "deploy":"gh-pages -d dist"
+    },
+    "keywords": [],
+    "author": "sneha",
+    "license": "ISC",
+    "homepage": "https://Snehaarockiadass30.github.io/mywebsite",
+    "dependencies": {
+        "gh-pages": "^1.2.0"
+
+    }
+}
